@@ -35,9 +35,27 @@ if (bearChoice === 1) {
 
 // Questions
 // 1. In English, using technical vocabulary, describe what is happening between lines 12 and 16.
+- if door choice is equel to 1  than bear clothing will be "hat" if door chioce is any other number than bearClothing will be "scarf"
+
 // 2. What variable has a new value assigned to it after the first if statement executes?
+
+- bearClothing is updated rfom "" to hat
+  
 // 3. If you changed the variable doorChoice to equal 3, what would the bearClothing value be?
+
+- scarf
+
 // 4. In English, using technical vocabulary, describe what is happening between lines lines 25 and 33.
+
+- since the varible bearChoice is set to 1, bearClothing will be hat, if bearChoice had been set at 2 than bearClothing 
+would be scarf and the bear would cry..
+
 // 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?
+
+- if bearChioce was set at 3, you would run into a room of snakes.....
+
 // 6. If you changed the variable doorChoice to equal 1, and the variable bearChoice to equal 2, what will be the final outcome be?
-// 7. What is your favorite ending?
+
+- the hat will be to smal and the bear will cry :(
+
+// 7. What is your favorite ending? secret tunnals are great, but I wat to be beast friends with him so im all for anything after 3
