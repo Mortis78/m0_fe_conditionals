@@ -111,5 +111,5 @@ consol.log(lovesToPlay && age );
 // What did your final line of code evaluate to? Why do you think that is? Explain.
 // ANSWER: it returend 1. for boolion 1 / 0 con equel true or false.
 //i think for this problem the bool evaluated age as true, so it returned 1.
-// i supose it could have also not known the answer so it added the two options (1 or 0) 
-//as intagers (1 + 0 = 1 ) and returned that.. 
+// i supose it could have also not known the answer so it added the two options 
+// (1 = true or 0 = false) as intagers (1 + 0 = 1 ) and returned that.. 
